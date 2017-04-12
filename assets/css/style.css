@@ -1,0 +1,81 @@
+.entire-content {
+	width: 100%;
+	background: url("../images/ep_naturalwhite.png");
+}
+
+body {
+		background: url("../images/ep_naturalwhite.png");
+}
+
+.header {
+	background: #ffffff;
+	border: 1px solid #cccccc;
+
+}
+#head {
+    background: #4aaaa5;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    display: inline;
+}
+
+.links {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	float: right;
+	width: 250px;
+}
+
+#about {
+	color: #4aaaaf;
+	width: 650px;
+}
+
+#bio {
+	color: #777777;
+}
+
+
+#contact {
+	color: #4aaaaf;
+	width: 650px;
+}
+
+#portfolio {
+	color: #4aaaaf;
+	width: 650px;
+}
+
+.main-content {
+    width: 650px;
+    margin-top: 50px;
+    margin-left: 100px;
+    background: #ffffff;
+}
+
+.form {
+	width: 960px;
+}
+
+#connect {
+	color: #4aaaaf;
+}
+.sidebar {
+	background: #ffffff;
+	width: 270px;
+	border: 1px solid #cccccc;
+
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    padding: 30px;
+    background-color: #777777;
+}
